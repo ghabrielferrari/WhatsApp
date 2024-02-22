@@ -24,23 +24,23 @@ Este projeto é uma recriação do aplicativo WhatsApp para Android, desenvolvid
 
 Para configurar e executar o projeto em seu ambiente local, siga estas etapas:
 
-✔️ Clone este repositório para o seu computador.
+- Clone este repositório para o seu computador.
 
-✔️ Abra o projeto no Android Studio.
+- Abra o projeto no Android Studio.
 
-✔️ Certifique-se de ter configurado corretamente o ambiente de desenvolvimento do Android.
+- Certifique-se de ter configurado corretamente o ambiente de desenvolvimento do Android.
 
-✔️ Execute o projeto no emulador ou dispositivo Android.
+- Execute o projeto no emulador ou dispositivo Android.
 
-✔️ Certifique-se de configurar as chaves de configuração do Firebase corretamente para autenticação e armazenamento de dados.
+- Certifique-se de configurar as chaves de configuração do Firebase corretamente para autenticação e armazenamento de dados.
 
 🕘 EXEMPLOS DE USO
 
 Aqui estão alguns exemplos de como interagir com o aplicativo:
 
-✅ Faça login com seu nome de usuário e senha.
+- Faça login com seu nome de usuário e senha.
 
-✅ Envie mensagens para outros usuários.
+- Envie mensagens para outros usuários.
 
 ✅ Altere seu nome e imagem de perfil nas configurações do aplicativo.
 
