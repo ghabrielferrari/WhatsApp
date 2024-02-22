@@ -42,7 +42,7 @@ Aqui estão alguns exemplos de como interagir com o aplicativo:
 
 - Envie mensagens para outros usuários.
 
-✅ Altere seu nome e imagem de perfil nas configurações do aplicativo.
+- Altere seu nome e imagem de perfil nas configurações do aplicativo.
 
 
 🕛 LICENCA
