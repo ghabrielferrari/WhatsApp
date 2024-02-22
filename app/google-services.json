@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "539952274696",
+    "project_id": "whatsapp-a87f5",
+    "storage_bucket": "whatsapp-a87f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539952274696:android:7116defaeea258171de0bd",
+        "android_client_info": {
+          "package_name": "com.gabrielferrari.whatsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjCoa8DWowdRS1OIsAyeQUmMMcmdNnuGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
