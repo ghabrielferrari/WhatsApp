@@ -1,5 +1,4 @@
-WhatsApp Clone - Android Studio
-
+Projeto WhatsApp - Android Studio
 
 🕐 DESCRICAO
 
